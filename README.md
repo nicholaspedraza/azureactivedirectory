@@ -56,7 +56,3 @@ Created three Group Policy Objects and verified them on the client with `gpresul
 
 ![gpresult](screenshots/08-user-gpresult.png)
 *gpresult /r as PROJECT\msmith on RP3 showing all three GPOs applied*
-
-## Skills demonstrated
-Active Directory, Group Policy, DNS, Windows Server, NTFS permissions,
-Azure Virtual Networks, Azure Bastion
